@@ -34,8 +34,6 @@ Odessа Polytechnic National University
 
 master's degree: mechanical engineer  
 
-=====
-
 ## Languages
 
 Russian - native  
