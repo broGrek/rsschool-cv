@@ -11,7 +11,7 @@
 **[GitHub](https://github.com/broGrek)**  
 **[LinkedIn](https://www.linkedin.com/in/oleg-grekov-b29364269)**  
 **Instagram:** broGrek  
-**Discord:** grek5723
+**Discord:** grek5723  
 **=====**
 
 ## About Me
@@ -25,7 +25,7 @@ My wealth of knowledge is very small, but I am a fast learner, and most importan
 HTML  
 CSS  
 Figma  
-JS(basic)
+JS(basic)  
 **=====**
 
 ## Education
