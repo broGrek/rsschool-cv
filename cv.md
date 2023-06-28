@@ -3,7 +3,7 @@
 
 # Oleg Grekov
 
-## Contacts
+### Contacts
 
 **Location:** Odessa, Ukraine  
 **Phone:** +380 93 721 90 77  
@@ -13,28 +13,26 @@
 **Instagram:** broGrek  
 **Discord:** grek5723  
 
-=====
-
-## About Me
+### About Me
 
 I am currently an engineer, but my plans for the future are to change my occupation to the IT sphere.  
 My wealth of knowledge is very small, but I am a fast learner, and most importantly, there is a desire  
 
-## Skills
+### Skills
 
 HTML  
 CSS  
 Figma  
 JS(basic)  
 
-## Education
+### Education
 
 Odessа Polytechnic National University  
 master's degree: mechanical engineer  
 
-## Languages
+### Languages
 
-Russian - native  
-Ukrainian - upper-intermediate  
-Bulgarian - elementary  
-English - beginer
++Russian - native  
++Ukrainian - upper-intermediate  
++Bulgarian - elementary  
++English - beginer
