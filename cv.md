@@ -1,7 +1,7 @@
 
 # rsschool-cv
 
-![avatar](foto.jpg)
+![avatar](img/foto.jpg)
 
 # Oleg Grekov
 
@@ -9,7 +9,7 @@
 
 **Location:** Odessa, Ukraine  
 **Phone:** +380 93 721 90 77  
-[Email:] [broGrekov@gmail.com]  
+**Email:** [broGrekov@gmail.com](broGrekov@gmail.com)  
 **[GitHub](https://github.com/broGrek)**  
 **[LinkedIn](https://www.linkedin.com/in/oleg-grekov-b29364269)**  
 **Instagram:** broGrek  
