@@ -27,6 +27,19 @@ My wealth of knowledge is very small, but I am a fast learner, and most importan
 + Figma  
 + JS(basic)  
 
+## Code Examples
+
+let arr = [1, 2, 3, 4, 5,];  
+let sum = 0;  
+let result = getSum(arr);  
+function getSum(arr) {  
+    for (let elem of arr) {  
+        sum += elem;  
+    }  
+    return sum;  
+}  
+console.log(result);  
+
 ## Education
 
 Odessа Polytechnic National University  
