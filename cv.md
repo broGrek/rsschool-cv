@@ -29,7 +29,7 @@ My wealth of knowledge is very small, but I am a fast learner, and most importan
 
 ## Code Examples
 
-```
+```JavaScript
 let arr = [1, 2, 3, 4, 5,];  
 let sum = 0;  
 let result = getSum(arr);  
