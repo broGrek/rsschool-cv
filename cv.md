@@ -10,8 +10,8 @@
 **Location:** Odessa, Ukraine  
 **Phone:** +380 93 721 90 77  
 **Email:** [broGrekov@gmail.com](broGrekov@gmail.com)  
-**[GitHub](https://github.com/broGrek)** broGrek  
-**[LinkedIn](https://www.linkedin.com/in/oleg-grekov-b29364269)** Oleg Grekov  
+**[GitHub: broGrek](https://github.com/broGrek)**
+**[LinkedIn: Oleg Grekov](https://www.linkedin.com/in/oleg-grekov-b29364269)**
 **Instagram:** broGrek  
 **Discord:** grek5723  
 
