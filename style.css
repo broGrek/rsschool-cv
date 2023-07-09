@@ -1,0 +1,154 @@
+* {
+    box-sizing: border-box;
+}
+.wrapper {
+    border: 1px solid gray;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 50px;
+    line-height: 70px;
+    margin: 75px 0 0;
+    text-align: center;
+    color: #fff;
+    background-color: rgb(100, 154, 183);
+}
+h2 {
+    text-align: center;
+    line-height: 50px;
+    margin: 0;
+    color: #fff;
+    background-color: rgb(100, 154, 183);
+}
+p {
+    font-size: 16px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+.header {
+    display: flex;
+    flex-direction: row;
+    background: #fff;
+    border-bottom: 5px solid grey;
+}
+.my_foto {
+    width: 250px;
+}
+.avatar{
+    height: 100%;
+    width: 250px;
+}
+.header_info {
+    max-width: 774px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.navbar {
+    /* position: absolute;
+    top: 10px;
+    right: 10px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+}
+.navbar a {
+    padding: 5px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: rgb(87, 87, 58);
+    background: #e6e7e9;
+}
+.navbar a:hover {
+    transform: scale(1.15);
+}
+.main_contant {
+    padding: 25px;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+}
+.sidebar {
+    width: 250px;
+    padding: 20px;
+    background: #e6e7e9
+}
+.icon {
+    max-width: 25px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.social_network_link {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.logoRS {
+    max-width: 100px;
+    width: 100%;
+}
+.experience {
+    display: flex;
+    flex-direction: column;
+}
+.link {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 15px;
+    width: 700px;
+}
+.link_example {
+    display: flex;
+    flex-direction: column;
+}
+.link_example a {
+    text-align: center;
+}
+.example {
+    max-width: 300px;
+    margin-top: 14px;
+    margin-bottom: 18px;
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 5px solid grey;
+    height: 60px; 
+    background-color: rgb(100, 154, 183);
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    max-width: 250px;
+    width: 100%;
+    background: #e6e7e9;
+    height: 60px;
+}
+.footer a {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    max-width: 250px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
